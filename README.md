@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://user-images.githubusercontent.com/60250422/190509193-bec5d3bc-cce0-4098-8b99-b464d455575a.png#vitrinedev)
 
 ## Detalhes do projeto
 
